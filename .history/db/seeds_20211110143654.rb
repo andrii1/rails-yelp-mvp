@@ -6,4 +6,4 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-restaurants = Restaurant.create([{ name: 'Noma', address: 'Copenhagen', category: 'japanese' }, { name: 'Kebab', address: 'Copenhagen', category: 'french' }, { name: 'Falafel', address: 'Copenhagen', category: 'belgian' }, { name: 'Noma2', address: 'Copenhagen', category: 'japanese' }, { name: 'Noma3', address: 'Copenhagen', category: 'japanese' }])
+restaurants = Restauran.create([{ name: 'Noma', address: 'Copenhagen', category: 'japanese' }, { name: 'Kebab', address: 'Copenhagen', category: 'japanese' }])
